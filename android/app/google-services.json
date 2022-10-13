@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "219491923495",
+    "project_id": "flutter-storage-cf5ee",
+    "storage_bucket": "flutter-storage-cf5ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219491923495:android:2a3378f3607ee4d1a8c002",
+        "android_client_info": {
+          "package_name": "com.example.flutter_storage_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219491923495-0tmvpbt0sohs98nr35j592aboju1iag1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCeY_ODXb9bjAUYNlLqszL1GROPhj1i-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219491923495-0tmvpbt0sohs98nr35j592aboju1iag1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "219491923495-ae1aa9pgftcl7ncboq9338f9qse3du6g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterStorageDemo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
